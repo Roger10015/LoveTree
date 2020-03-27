@@ -2,13 +2,18 @@
 var config = {
     // 下面的句子不一定非要7句， 你也可以改成4句，2句话都可以
     lines: [
-        "亲爱的雯雯",
-        "花开一季，有落红为证",
-        "逝去的岁月，如何能托于烟尘",
-        "你的浅笑，是我永生眷恋",
-        "相思的真情，是否能明白一二",
-        "亲爱的宝贝，你是我的唯一",
-        "爱你永远。。。",
+        "You are mine, I am yours.",
+        "You can be sure it's true.",
+        "Into my heart, I've gotten you,",
+        "Locked its lock,",
+        "Lost the key,",
+        "So you'll never get back out, you see.",
+        "Du bist mein, ich bin dein:",
+        "dessen solltest du gewiss sein.",
+        "Du bist verschlossen",
+        "in meinem Herzen.",
+        "verloren ist das Schlüsselein:",
+        "du musst für immer drinnen sein.",
     ],
     // 相爱的时间 记住格式不能写错了, 非常重要
     // 格式一定要和下面这个时间格式一样
@@ -16,7 +21,7 @@ var config = {
     //      温馨警告:
     //          1.时分秒都必须是俩个数字  比如 00:00:00
     //          2.T不能丢了
-    date: "2017-07-20T20:15:00",
+    date: "2019-04-10T20:10:00",
     // 双方的名字
-    names: ["笨笨熊", "黑猪猪"]
+    names: ["Roger", "Jessica"]
 }
